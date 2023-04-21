@@ -1,0 +1,40 @@
+@@ -1,5 +1,5 @@
+{
+    "fromTag": "5.57.0",
+    "fromTag": "5.57.1",
+    "changelog": {
+        "5.57.1": [
+            {
+@@ -108,6 +108,146 @@
+                ]
+            }
+        ],
+        "6.0.0": [
+            {
+                "pr": "13759",
+                "title": "small fix for aggregate",
+                "description": null,
+                "author": {
+                    "name": "carolhmj",
+                    "url": "https://github.com/carolhmj"
+                },
+                "files": [
+                    "packages/dev/core/src/Physics/v2/physicsAggregate.ts"
+                ],
+                "tags": [
+                    "skip changelog"
+                ]
+            },
+            {
+                "pr": "13758",
+                "title": "Small fix for webxr declaration (consistency)",
+                "description": null,
+                "author": {
+                    "name": "RaananW",
+                    "url": "https://github.com/RaananW"
+                },
+                "files": [
+                    "packages/dev/core/src/LibDeclarations/webxr.d.ts"
+                ],
+                "tags": []
+     
